@@ -5,4 +5,6 @@ The goal of this challenge is to analyse the effectiveness of 4 separate drug re
 # Contents of Repository
 
 This repository contains two csv files that hold data on the treatment history of 249 mice, including the drug administered, the 
-size of the tumor of each mouse at 10 different time points, the weight of mouse
+size of the tumor of each mouse at 10 different time points, the weight of each mouse and a unique indentifer. 
+
+These pieces of data are used in the 
